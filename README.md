@@ -4,6 +4,9 @@
 
 **用 AI Agent 重做跨境电商的工作流：让一个人做完一个团队的活。**
 
+<a href="https://aboutme.hyff.cc.cd"><img src="https://img.shields.io/badge/个人网站-aboutme.hyff.cc.cd-111?style=for-the-badge&labelColor=d4af37" alt="个人网站"></a>
+<a href="https://tkagent.hyff.cc.cd"><img src="https://img.shields.io/badge/在线体验-TikTok_运营台-fe2c55?style=for-the-badge" alt="在线体验"></a>
+
 </div>
 
 ---
@@ -30,8 +33,19 @@ AI 驱动的 TikTok 跨境电商全链路运营系统。把选品、找货、上
 </tr>
 </table>
 
+### 🧪 更多项目
+
+| 项目 | 简介 | 技术 |
+|---|---|---|
+| [**CrossBorder Ops Agent**](https://github.com/serjofolio/crossborder-ops-agent) | 跨境电商运营 Agent：选品诊断、Listing 生成、竞品监控、库存风险、经营日报 6 个可测试工具；离线模式免 Key 即可演示 | Python · FastAPI · LangGraph · Streamlit · Docker |
+| [**HYF-OS 个人网站**](https://github.com/serjofolio/aboutme) | 黑金骇客风个人网站：启动动画、技能星图、交互终端，以及接入真实大模型的 AI 分身 | 原生 JS · Canvas · Web Audio · Node.js |
+
 ### 🛠️ 技术栈
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -46,3 +60,4 @@ AI 驱动的 TikTok 跨境电商全链路运营系统。把选品、找货、上
 - 大模型落地：Agent 编排、结构化输出、规则与 AI 结合的可靠决策
 - 浏览器自动化：Chrome 插件、页面结构自适应识别、反风控
 - 跨境电商：TikTok Shop 东南亚、1688 供应链、ERP 集成
+- 具身智能：Unitree G1 人形机器人视觉抓取与双臂控制
